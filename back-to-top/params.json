@@ -4,6 +4,6 @@
     "version": 1,
     "minAppVersion": "2.4",
     "appScript": true,
-	"description":"Add a Bootstrap affix button “Back to Top” link.",
+	"description":"Add a Bootstrap affix button “Back to Top” link. <br> Created by <a href='http://uid.me/shzlot' target='_blank'>ShZlot</a>",
 	"logo":"thumbnail.png"
 }
