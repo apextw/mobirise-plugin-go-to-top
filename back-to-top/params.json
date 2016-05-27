@@ -1,0 +1,9 @@
+{
+    "name": "Back to top",
+    "alias": "back-to-top",
+    "version": 1,
+    "minAppVersion": "2.4",
+    "appScript": true,
+	"description":"Add a Bootstrap affix button “Back to Top” link.",
+	"logo":"thumbnail.png"
+}
